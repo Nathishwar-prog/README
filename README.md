@@ -1,6 +1,7 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:83a4d4,100:b6fbff&height=200&section=header&text=AI%20%26%20ML%20Engineer&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=ffffff" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Roboto&size=40&duration=3500&pause=1200&color=2E9EF7&center=true&vCenter=true&width=600&height=100&lines=Hello%2C+I'm+Nathishwar;Passionate+AI+%26+ML+Engineer;Let's+Build+Something+Amazing!" alt="Typing SVG" />
 </div>
+
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=🤖+AI+%26+Machine+Learning+Engineer;🐍+Python+Developer+%26+Data+Scientist;🌐+Frontend+Development+Enthusiast;🚀+Open+Source+Contributor;💡+Building+the+Future+with+AI&font=Fira%20Code&center=true&width=600&height=100&duration=3000&pause=1000&size=22&color=58a6ff" alt="Typing Animation" />
