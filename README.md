@@ -65,16 +65,16 @@ me.say_hi()
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nathishwar-prog&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathishwar-prog&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nathishwar-prog&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yourusername&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Nathishwar-prog&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </div>
 
 ## 🏆 Featured Projects
@@ -88,13 +88,13 @@ me.say_hi()
 <td width="50%">
 <h3 align="center">🤖 AI Chat Application</h3>
 <div align="center">  
-<a href="https://github.com/yourusername/ai-chat-app" target="_blank">
+<a href="https://github.com/Nathishwar-prog/ai-chat-app" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="400" alt="AI Chat"/>
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/yourusername/ai-chat-app" target="_blank">
+<a href="https://github.com/Nathishwar-prog/ai-chat-app" target="_blank">
 <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>  
 <a href="https://your-live-demo.com" target="_blank">
@@ -107,13 +107,13 @@ me.say_hi()
 <td width="50%">
 <h3 align="center">📊 Data Analytics Dashboard</h3>
 <div align="center">
-<a href="https://github.com/yourusername/analytics-dashboard" target="_blank">
+<a href="https://github.com/Nathishwar-prog/analytics-dashboard" target="_blank">
 <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400" alt="Analytics"/>
 </a>
 <br>
 <br>
 <p>
-<a href="https://github.com/yourusername/analytics-dashboard" target="_blank">
+<a href="https://github.com/Nathishwar-prog/analytics-dashboard" target="_blank">
 <img src="https://img.shields.io/badge/Code-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>  
 <a href="https://your-dashboard-demo.com" target="_blank">
